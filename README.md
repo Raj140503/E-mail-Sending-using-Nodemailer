@@ -1,4 +1,4 @@
-# Node Contact Form
+# Node Email Sending
 
 Simple Node.js using Nodemailer to send emails
 
